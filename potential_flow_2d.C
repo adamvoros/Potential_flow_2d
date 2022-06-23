@@ -24,7 +24,6 @@ unsigned long *ija;
 double *sa;
 
 
-
 bool belulvan(double x,double y,int n,double *z){
   double ax=node_x[A[n]],ay=node_y[A[n]],bx=node_x[B[n]],by=node_y[B[n]],cx=node_x[C[n]],cy=node_y[C[n]],apsi=psi[A[n]],bpsi=psi[B[n]],cpsi=psi[C[n]],u,v,t;
   t=(bx-ax)*(cy-ay)-(by-ay)*(cx-ax);
