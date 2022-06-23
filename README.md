@@ -1,1 +1,1 @@
-# potential_flow_2D
+# Numerical methods in physics
